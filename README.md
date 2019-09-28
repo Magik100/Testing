@@ -1,4 +1,5 @@
 # Testing
-Becoming familiar with GitHub.../n
-Another line/n
-And another line/n
+Becoming familiar with GitHub...
+Another line
+And another line
+
